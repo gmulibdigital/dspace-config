@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+<body>
+<div id="file.news.div.news" n="news" rend="primary">
+<head>MARS</head>
+<p>MARS is a service of <a href="http://publishing.gmu.edu">Mason Publishing</a>, part of the <a href="http:libraries.gmu.edu">George Mason University Libraries</a>. Home of the Electronic Dissertations and Thesis as well as faculty research publications and data files, MARS provides access to the intellectual work of the Mason community.</p>
+<p>MARS is set up to help you comply with Open Access mandates for your research data and publications. To start publishing your content in MARS, please contact us by <a target=_blank href=https://gmulibrary.az1.qualtrics.com/SE/?SID=SV_ctKuTejt0XDUUQt>using our online form</a>.</p>
+</div>
+</body>
+<options/>
+<meta>
+<userMeta/>
+<pageMeta/>
+<repositoryMeta/>
+</meta>
