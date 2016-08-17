@@ -284,7 +284,7 @@
 
 
     <!--The ETD specific configuration settings for discovery-->
-    <!-- Borrowed from VTech -- https://github.com/VTUL/vtechworks/blob/vt_5_x_dev/dspace/config/spring/api/discovery.xml -->
+    <!-- Borrowed from VTech -->
     <bean id="etdConfiguration" class="org.dspace.discovery.configuration.DiscoveryConfiguration" scope="prototype">
         <!--Which sidebar facets are to be displayed-->
         <property name="sidebarFacets">
