@@ -305,7 +305,10 @@
                 <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
                 <ref bean="searchFilterIssued" />
-                <ref bean="searchFilterType" />          
+                <ref bean="searchFilterType" /> 
+                <ref bean="searchFilterDepartment" />
+                <ref bean="searchFilterAdvisor" />
+                <ref bean="searchFilterEtdlevel" />         
             </list>
         </property>
         <!--The sort filters for the discovery search-->
