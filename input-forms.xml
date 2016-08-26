@@ -409,7 +409,7 @@ it, please enter the types and the actual numbers or codes.</hint>
                     <dc-qualifier>name</dc-qualifier>
                     <label>Degree Name</label>
                     <input-type>onebox</input-type>
-                    <hint>Enter the degree name as it appears within the work, such as PhD in Physics.</hint>
+                    <hint>Enter the degree name as it appears within the work, such as Doctor of Philosophy in Physics.</hint>
                 </field>
                 <field>
                     <dc-schema>thesis</dc-schema>
